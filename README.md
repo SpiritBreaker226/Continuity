@@ -1,4 +1,28 @@
-Code Samples for Continuity Inc
+Website Continuity
 ======================
 
-Unlike the other code samples this one will have all of the code for Continuity Inc site as the site is no more. This entire site was code by me in 3 days, as this was the timeline given to me.
+Here is the code and styling for the website Continuity, the design was done by the client.
+
+Please note that I have removed the emails, phone numbers, address and people names in order to try to protect those who were part of this website.
+
+The images and Flash files have been removed as well because those were not created by me.
+
+Project Description
+================================
+
+A site that would allow business owners to set up back up plans to protect their business by using the Internet.
+
+Project Stats
+================================
+
+**Project Date**
+Feb 2009
+
+**Team Size**
+1
+
+**Platforms**
+Web
+
+**Technologies**
+PHP, mySQL, CSS, HTML
